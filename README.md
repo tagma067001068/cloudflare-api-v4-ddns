@@ -23,7 +23,7 @@ FORCE=false
 ###### 填写上一步能正确返回咱的当前IP的网址, other examples are: bot.whatismyipaddress.com, https://api.ipify.org/ ...
 WANIPSITE="myip.dnsomatic.com"
 
---
+
 ###### 运行脚本
 chmod +x cf-ddns.sh
 <br>
