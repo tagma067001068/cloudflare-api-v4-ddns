@@ -25,15 +25,13 @@ WANIPSITE="myip.dnsomatic.com"
 
 
 ###### 运行脚本
-chmod +x cf-ddns.sh
-<br>
-./cf-ddns.sh
-<br>
+chmod +x cf-ddns.sh  
+./cf-ddns.sh  
+
 ###### 第一次运行后，会显示咱用于DDNS解析的二级域名的CFID，记录下来将CFID填入到配置文件中的CFID处
-再次运行
-<br>
-./cf-ddns.sh
-<br>
+再次运行  
+./cf-ddns.sh  
+
 ###### 设置自动运行
 crontab -e
 ###### 不知道这样写对不对xD
