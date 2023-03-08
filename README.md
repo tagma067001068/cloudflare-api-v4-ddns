@@ -35,3 +35,4 @@ chmod +x cf-ddns.sh
 crontab -e
 #不知道这样写对不对xD
 0 * * * * /root/cf-ddns.sh >/dev/null 2>&1
+ 
